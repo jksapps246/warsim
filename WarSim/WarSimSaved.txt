@@ -1,0 +1,9 @@
+weather: 1
+pName: John
+playerSetup: 1 2 4
+playerStats: 98 103 66
+playerSpecial: false 2 0
+eName: Leather Face
+enemySetup: 1 2 2
+enemyStats: 146 118 53
+enemySpecial: false 2 0

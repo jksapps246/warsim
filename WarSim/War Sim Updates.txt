@@ -1,0 +1,86 @@
+Added Arena:
+    Added Weather conditions to arena:
+        - Sunny
+        - Rain - animated
+        - Windy
+    Added Health Bar both for player and enemy
+    Added stats for both player and enemy
+
+Added images for:
+    Warriors - animated
+    Amours - animated
+    Weapons - animated
+
+Added movement:
+    Jump - avoid attacks
+    Stand - takes attacks
+    Attack - move and perform a basic attack
+    Strong Attack - move and perform a strong attack
+
+Added Welcome Screen:
+    Animated Welcome - display WARSIM screen in slow motion
+
+Added Story
+    Animated Story - slow writing for reading the backstory of WARSIM
+
+Added other screens with animation:
+    Warrior - shows all warriors and stats for selection
+    Armour - shows all armors and stats for selection
+    Weapons - shows all weapons and stats for selection
+
+Added color:
+    Arena:
+        - All animated objects in the arena
+        - Sunny weather - yellow sun
+    Screens:
+        - Armour - each armour have a different color
+        - Weapons - each weapon have a different color
+    HealthBar: change color based on status of player/enemy health(red,yellow and green)
+
+Added different Strike method for each weapon
+
+Added validation for all input
+
+Added Save/load to/from file
+    - Arena
+    - Player and Enemy
+        - Warrior
+        - Armour
+        - Weapons
+        - Statistics
+            - Health
+            - Strength
+            - Dexterity
+            - Skill Rates
+            - Mobility
+            - Specials
+                - activates
+                - turns
+                - misses
+
+Added Save,load and Exit options to screen
+    - Load Saved Data
+    - Save and Continue
+    - Save and Exit
+    - Exit without saving
+    - Cancel
+
+Added option to play again(only if a someone wins)
+    - Replay
+    - New game
+    - Load Saved game
+    - Exit
+
+Added thank you screen
+    - Animated - display Thank You screen in slow motion
+
+Added Specials for each warriors
+    Automatic activation( every 3 consecutive misses then reser)
+        - Activates every 3 consecutive turns
+        - Deactivates after 2 turns
+        - increase stats
+        - healing
+        - increase hit chance to gaurantee a hit
+
+Added color commentary
+

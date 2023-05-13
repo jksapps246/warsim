@@ -1,0 +1,148 @@
+
+
+    //==============================================>>
+    // Warsim July 2022 Project Requirements =====>>
+    //===========================================>>
+
+        Select ANY of the following to 
+        make up a total of 12 points.
+        (of the 55 possible points!)
+
+        Easy:       1 point each
+        Med:        3 points each
+        Hard:       5 points each
+        Advanced:   10 points
+
+        * attach a txt file listing what
+          you have done! and put in your
+          solution in the ROOT folder!
+
+
+
+        ///////////////////////////////////////
+        // Easy (1 point each)
+
+            Add a fourth child to the warrior, 
+            weapon or armour classes (if you 
+            do all 3 you ONLY get 1 point)
+
+            Add another package, such as
+            an areana package or a weather
+            package (these must affect the
+            gameplay somehow)
+
+            Prompt the user for a name for
+            their warrior and randomly assign
+            a name to the enemy - must be used
+            during the match (as in print outs)
+            *you can use the names class instead!
+
+            Add another attack type (3rd choice)
+
+            Provide basic input validation(for 
+            ALL inputs!)
+
+            Add some color to the output
+            in the terminal - research 👍
+
+            Add custom prints for the welcome,
+            and turn by turn stats, and game over!
+            (above and beyond what we have)
+
+            Give the player the ability to 
+            surrender.
+
+            Track the number of turns, the
+            total damage done and print these
+            stats after the match. 
+            (when game ends)
+
+
+
+        /////////////////////////////////////////
+        // Med (3 points each)
+
+
+            Provide a way for the player to
+            play again (without restarting the
+            program from the beginning) Saving
+            the game! play again with a reset()
+
+            re-theme the application - Star Wars,
+            Game of Thrones, Super heros etc.
+            All classes/packages and objects must be
+            renamed.
+
+            Make the Strike method fully 
+            polymorphic - different Strike logic
+            for each Child type. demo coming!
+
+            Add ranged attacks! need to keep range
+            as a stat!
+
+            Add magic attacks!
+
+            Add a description class to provide
+            some color commentary for the battle.
+
+                Hulk swings and misses.
+                Darth Vader madly swings and hits for 90 damage!
+
+            Add another stat to the warrior - luck,
+            charm??, age etc... this stat must have
+            some affect on the game!
+            (or in the weapon or armour parents)
+
+
+
+        /////////////////////////////////////////
+        // Hard (5 points each)
+
+
+            Create a polymorphic special
+            ability based on the warrior's class.
+                Human   - healing(restores health)?
+                Elf     - Legolos(rapid-fire)
+                Orc     - Rage(massive damage bonus)
+            This should either be a single-use
+            ability or on a cool down (every 5 turns?)
+
+            Provide a way for the game to 
+            be saved and resumed. All required data
+            must be saved and restorted upon resume.
+            Provide a save file name so the user
+            can tell the difference in saves.
+
+            Subtype the 3 children from the warrior
+            package, for example:
+
+                    The Human subclass could have
+                    3 children with different stats:
+                            Knight
+                            Assassin
+                            Priest
+                    * do the same for the elf and
+                    orc, be creative :)
+
+
+
+        ///////////////////////////////////////
+        // Advanced (10 points)
+
+            Rewrite the application, but instead
+            of Inheritance, use Composition (a 
+            good mixture is fine, but use comp
+            where it makes sense)
+
+            *I will do a Composition example 
+                on Monday, data validation
+                on Tuesday 👍
+
+
+
+    /////////////////////
+    // Due Date:
+
+        Projects are due on Monday Aug 15th 📅
+
+                🍀 to everyone!
